@@ -1,0 +1,8 @@
+Herramienta de diagnóstico de lesiones de rodilla
+
+## Instalación
+Se debe instalar la herramienta Leiningen (http://leiningen.org/) que automatiza proyectos Clojure.
+
+## Uso
+Para ejecutar la herramienta de diagnóstico de lesiones de rodillas debe ejecutar la siguiente linea en consola en donde se encuentra el project.clj: 
+    - $ lein trampoline run
